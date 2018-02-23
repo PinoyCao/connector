@@ -1,0 +1,16 @@
+MANIFEST.in
+dmc_cli.egg-info/PKG-INFO
+dmc_cli.egg-info/SOURCES.txt
+dmc_cli.egg-info/dependency_links.txt
+dmc_cli.egg-info/entry_points.txt
+dmc_cli.egg-info/requires.txt
+dmc_cli.egg-info/top_level.txt
+src/__init__.py
+src/agent.py
+src/cli.py
+src/conapi.py
+src/config.ini
+src/dmcserver.py
+src/pyfunctions.py
+src/scan.py
+src/settings.py

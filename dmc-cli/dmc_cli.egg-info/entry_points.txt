@@ -1,0 +1,6 @@
+
+        [console_scripts]
+        dmc-server=src.cli:dmc_server
+        dmc-agent=src.cli:dmc_agent
+        dmc-devices=src.cli:dmc_devices
+    
